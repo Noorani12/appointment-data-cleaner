@@ -1,0 +1,21 @@
+Appointment ID,Patient ID,Appointment Date,Department,Status,Duration Minutes
+A1001,P201,2027-06-10,Cardiology,scheduled,30
+A1002,P202,2027/06/11,  Neurology ,Scheduled,45
+A1002,P202,2027/06/11,  Neurology ,Scheduled,45
+A1003,P203,2027-06-12,Orthopedics,COMPLETED,60
+A1004,P204,not-a-date,Cardiology,completed,30
+A1005,P205,2027-06-14,Dermatology,canceled,20
+A1006,P206,2027-06-15,Pediatrics,no-show,15
+A1007,,2027-06-16,Oncology,scheduled,40
+,P208,2027-06-17,Cardiology,scheduled,30
+A1009,P209,,Neurology,scheduled,30
+A1010,P210,2027-06-19,,scheduled,30
+A1011,P211,2027-06-20,radiology,,25
+A1012,P212,2027-06-21,Cardiology,scheduled,-10
+A1013,P213,2027-06-22,Orthopedics,scheduled,abc
+A1014,P214,2027-06-23,Dermatology,pending,30
+A1015,P215,2027-06-24,Pediatrics,scheduled,
+A1016,P216,2027-02-30,Oncology,scheduled,30
+A1017,P217,25-06-2027,Radiology,completed,30
+A1003,P299,2027-06-26,Neurology,scheduled,30
+A1018,P218,2027-06-27,Cardiology, Scheduled ,35

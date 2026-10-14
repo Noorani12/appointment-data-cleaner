@@ -1,0 +1,162 @@
+[
+  {
+    "appointment_id": "A1001",
+    "patient_id": "P201",
+    "appointment_date": "2027-06-10",
+    "department": "Cardiology",
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1002",
+    "patient_id": "P202",
+    "appointment_date": "2027/06/11",
+    "department": "  Neurology ",
+    "status": "Scheduled",
+    "duration_minutes": 45
+  },
+  {
+    "appointment_id": "A1002",
+    "patient_id": "P202",
+    "appointment_date": "2027/06/11",
+    "department": "  Neurology ",
+    "status": "Scheduled",
+    "duration_minutes": 45
+  },
+  {
+    "appointment_id": "A1003",
+    "patient_id": "P203",
+    "appointment_date": "2027-06-12",
+    "department": "Orthopedics",
+    "status": "COMPLETED",
+    "duration_minutes": 60
+  },
+  {
+    "appointment_id": "A1004",
+    "patient_id": "P204",
+    "appointment_date": "not-a-date",
+    "department": "Cardiology",
+    "status": "completed",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1005",
+    "patient_id": "P205",
+    "appointment_date": "2027-06-14",
+    "department": "Dermatology",
+    "status": "canceled",
+    "duration_minutes": 20
+  },
+  {
+    "appointment_id": "A1006",
+    "patient_id": "P206",
+    "appointment_date": "2027-06-15",
+    "department": "Pediatrics",
+    "status": "no-show",
+    "duration_minutes": 15
+  },
+  {
+    "appointment_id": "A1007",
+    "patient_id": null,
+    "appointment_date": "2027-06-16",
+    "department": "Oncology",
+    "status": "scheduled",
+    "duration_minutes": 40
+  },
+  {
+    "appointment_id": null,
+    "patient_id": "P208",
+    "appointment_date": "2027-06-17",
+    "department": "Cardiology",
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1009",
+    "patient_id": "P209",
+    "appointment_date": null,
+    "department": "Neurology",
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1010",
+    "patient_id": "P210",
+    "appointment_date": "2027-06-19",
+    "department": null,
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1011",
+    "patient_id": "P211",
+    "appointment_date": "2027-06-20",
+    "department": "radiology",
+    "status": null,
+    "duration_minutes": 25
+  },
+  {
+    "appointment_id": "A1012",
+    "patient_id": "P212",
+    "appointment_date": "2027-06-21",
+    "department": "Cardiology",
+    "status": "scheduled",
+    "duration_minutes": -10
+  },
+  {
+    "appointment_id": "A1013",
+    "patient_id": "P213",
+    "appointment_date": "2027-06-22",
+    "department": "Orthopedics",
+    "status": "scheduled",
+    "duration_minutes": "abc"
+  },
+  {
+    "appointment_id": "A1014",
+    "patient_id": "P214",
+    "appointment_date": "2027-06-23",
+    "department": "Dermatology",
+    "status": "pending",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1015",
+    "patient_id": "P215",
+    "appointment_date": "2027-06-24",
+    "department": "Pediatrics",
+    "status": "scheduled",
+    "duration_minutes": null
+  },
+  {
+    "appointment_id": "A1016",
+    "patient_id": "P216",
+    "appointment_date": "2027-02-30",
+    "department": "Oncology",
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1017",
+    "patient_id": "P217",
+    "appointment_date": "25-06-2027",
+    "department": "Radiology",
+    "status": "completed",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1003",
+    "patient_id": "P299",
+    "appointment_date": "2027-06-26",
+    "department": "Neurology",
+    "status": "scheduled",
+    "duration_minutes": 30
+  },
+  {
+    "appointment_id": "A1018",
+    "patient_id": "P218",
+    "appointment_date": "2027-06-27",
+    "department": "Cardiology",
+    "status": " Scheduled ",
+    "duration_minutes": 35
+  }
+]
